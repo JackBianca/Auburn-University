@@ -9,6 +9,8 @@ Comp2710 - Software Construction
 
 Comp3220 - Principles of Programming Languages
 
+Comp3240 - Discrete Structures
+
 Comp3270 - Introduction to Algorithms
 
 Comp3350 - Computer Organization and Assembly Language Programming
